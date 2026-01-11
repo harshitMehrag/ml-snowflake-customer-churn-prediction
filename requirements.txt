@@ -1,0 +1,9 @@
+snowflake-snowpark-python
+snowflake-ml-python
+python-dotenv
+notebook
+# Pinning dependencies to match Snowflake Server 3.11 runtime
+numpy<2.0.0
+xgboost<3.0.0
+scikit-learn<1.6.0
+pandas<2.2.0
