@@ -1,6 +1,4 @@
-# Customer Churn Prediction Using Snowpark ML
-
-> **Enterprise-grade Machine Learning pipeline built entirely within Snowflake's Data Cloud.**
+ **Enterprise-grade Machine Learning pipeline built entirely within Snowflake's Data Cloud.**
 
 This is an end-to-end Machine Learning workflow that predicts customer churn for a company. Unlike traditional workflows that pull data to a local machine, this project utilizes **Snowpark ML** to push all data processing and model training to the Snowflake cloud.
 
